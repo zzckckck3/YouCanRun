@@ -15,9 +15,13 @@
 ### 로그인 화면
 ![로그인](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
 ### 메인 UI
+#### 코스튬
 ![코스튬](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EC%BD%94%EC%8A%A4%ED%8A%AC.gif)
+#### 도감
 ![도감](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%8F%84%EA%B0%90.gif)
+#### 랭킹
 ![랭킹](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%9E%AD%ED%82%B9.gif)
+#### 튜토리얼
 ![튜토리얼](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC.gif)
 ### 로비
 ![로비](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%A1%9C%EB%B9%84.gif)
