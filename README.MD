@@ -13,23 +13,23 @@
 ## 주요 서비스 화면
 
 ### 로그인 화면
-![로그인](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%8F%84%EA%B0%90.gif)
+![로그인](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
 ### 메인 UI
-![코스튬](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EC%BD%94%EC%8A%A4%ED%8A%AC.gif)
-![도감](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%8F%84%EA%B0%90.gif)
-![랭킹](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%9E%AD%ED%82%B9.gif)
-![튜토리얼](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC.gif)
+![코스튬](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EC%BD%94%EC%8A%A4%ED%8A%AC.gif)
+![도감](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%8F%84%EA%B0%90.gif)
+![랭킹](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%9E%AD%ED%82%B9.gif)
+![튜토리얼](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC.gif)
 ### 로비
-![로비](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%A1%9C%EB%B9%84.gif)
+![로비](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EB%A1%9C%EB%B9%84.gif)
 ### 게임 입장 화면
-![게임리스트입장](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%85%EC%9E%A5.gif)
+![게임리스트입장](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%85%EC%9E%A5.gif)
 ### 대기방
-![대기방](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EC%9E%85%EC%9E%A5%EB%B0%8F%EB%A0%88%EB%94%94.gif)
+![대기방](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EC%9E%85%EC%9E%A5%EB%B0%8F%EB%A0%88%EB%94%94.gif)
 ### 인게임 화면
 #### 게임 시작
-![게임시작](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EC%8B%9C%EC%9E%91.gif)
+![게임시작](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EC%8B%9C%EC%9E%91.gif)
 #### 게임 종료
-![게임종료](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/raw/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EB%81%9D.gif)
+![게임종료](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EB%81%9D.gif)
 #### 스킬은 [여기](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Skills.md)에서!
 #### 아이템은 [여기](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Item.md)에서!
 
