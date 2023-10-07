@@ -5,7 +5,7 @@
 ![image](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%8A%A4%ED%82%AC%EB%8F%84%EA%B0%904.PNG)
 
 ##### 디폴트
-![디폴트](https://github.com/suminzzang/YouCanRun/tree/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/SkillGif/Default.mp4_000001534.gif)
+![디폴트](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/SkillGif/Default.mp4_000001534.gif)
 ##### 점퍼
 ![점퍼](https://github.com/suminzzang/YouCanRun/tree/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/SkillGif/Jumper.mp4_000001151.gif)
 ##### 붐버
