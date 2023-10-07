@@ -35,7 +35,7 @@
 #### 스킬은 [여기](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Skills.md)에서!
 #### 아이템은 [여기](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Item.md)에서!
 
-#### 게임 빌드 파일과 전체 폴더(에셋스토어 제외)들은 [여기](https://drive.google.com/drive/u/0/folders/1CE_6bV3QoaGc776aYNuiP1NAcIgwAgVB)에서!
+#### 게임 (빌드)실행 파일과 전체 폴더(에셋스토어 제외)들은 [여기](https://drive.google.com/drive/u/0/folders/1CE_6bV3QoaGc776aYNuiP1NAcIgwAgVB)에서!
 
 ---
 
