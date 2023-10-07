@@ -30,10 +30,10 @@
 ![게임시작](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EC%8B%9C%EC%9E%91.gif)
 #### 게임 종료
 ![게임종료](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EB%81%9D.gif)
-#### 스킬은 [여기](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Skills.md)에서!
-#### 아이템은 [여기](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Item.md)에서!
+#### 스킬은 [여기](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Skills.md)에서!
+#### 아이템은 [여기](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Item.md)에서!
 
-#### 더 자세한 정보는 [여기](https://lab.ssafy.com/s09-metaverse-game-sub2/S09P22C101/-/tree/master/%EC%82%B0%EC%B6%9C%EB%AC%BC)에서!
+#### 게임 빌드 파일과 에셋파일들은 [여기](https://drive.google.com/drive/u/0/folders/1CE_6bV3QoaGc776aYNuiP1NAcIgwAgVB)에서!
 
 ---
 
