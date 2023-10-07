@@ -54,11 +54,11 @@
 - Google Drive
 
 ## 요구사항 정의서
-![image](/uploads/34b62a1344a6d581fe783033f6cfc1e1/image.png)
-![image](/uploads/535b1ca6f06369a384e04826bceb0f17/image.png)
+![image](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.png)
+![image](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C2.png)
 
 ## ER Diagram
-![image](/uploads/ec0b12d45179b250f5811e79a63afa76/image.png)
+![image](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/ERD.png)
 
 ## 팀원 역할
 1. 곽강한 (팀장) : 게임 제작 총괄, 캐릭터 스킬 제작, 캐릭터 이동 및 기능 구현, Photon 캐릭터 연결 구성, 애니메이션 관리, 게임 전반 기능 구성
