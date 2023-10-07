@@ -31,7 +31,7 @@
 #### 게임 종료
 ![게임종료](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/InGameGif/%EA%B2%8C%EC%9E%84%EB%81%9D.gif)
 #### 사용한 에셋스토어 파일들 목록
-![에셋스토어[(https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%EB%B0%9B%EC%9D%80%20Asset%20%EB%AA%A9%EB%A1%9D.PNG)
+![에셋스토어](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Screenshot/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%EB%B0%9B%EC%9D%80%20Asset%20%EB%AA%A9%EB%A1%9D.PNG)
 #### 스킬은 [여기](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Skills.md)에서!
 #### 아이템은 [여기](https://github.com/suminzzang/YouCanRun/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/Item.md)에서!
 
