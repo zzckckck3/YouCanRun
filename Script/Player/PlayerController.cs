@@ -209,7 +209,7 @@ public class PlayerController : MonoBehaviourPunCallbacks
         dieCheck = false;
         skillRPC = GetComponent<CharacterClassSkillRPC>();
         RespawnControllTrigger=true; // 처음에 조작 가능하도록 설정 
-        Debug.Log(RespawnControllTrigger + "제발 트루여라 ㅅ;ㅣㅏㅂ");
+        Debug.Log(RespawnControllTrigger);
         SetRespawnTimeDelayTrigger(false); // 처음에 리스폰 타이머는 안감
         itemReady = false;
         mouseSensitivity = PlayerPrefs.GetFloat("MouseSensitivity", 0.75f);
